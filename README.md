@@ -1,4 +1,4 @@
-# Моё Портфолио Веб-Дизайна (Web-design)
+# Моё Портфолио
 
 Добро пожаловать в репозиторий с моими дизайн-проектами! Здесь собраны макеты сайтов, интерфейсов и графических элементов, созданные мной в Figma.
 
@@ -35,4 +35,10 @@
 **"Академия Workout"**
 
 [Открыть в Figma ↗](https://www.figma.com/design/o0aFrPotIJ7UthyFjFg3JD/Untitled?node-id=0-1&t=oL43EffNQ04WonEr-1)
+
+---
+
+<img width="416" height="588" alt="image" src="https://github.com/user-attachments/assets/a8bd7778-cba7-401e-afcb-5e89c27a6568" />
+
+**Инфографика**
 
