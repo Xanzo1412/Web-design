@@ -21,7 +21,7 @@
 
 **Практическое задание**
 
-[Открыть в Figma ↗](https://www.figma.com/design/l9TdHemDxYo0ogEUkFbIY5/Untitled?node-id=0-1&t=0Ta5NzQbytx11wAL-1)
+[Открыть в Figma ↗](https://www.figma.com/design/o2xYw31IOwyWCbJ6PJLsi2/Untitled?node-id=0-1&t=i8XRIe6mR9qckLfR-1)
 ---
 
 <img width="1146" height="695" alt="image" src="https://github.com/user-attachments/assets/9afaa2d3-ed86-4c93-afbe-e1cb822ec69f" />
@@ -36,5 +36,5 @@
 
 **"Академия Workout"**
 
-[Открыть в Figma ↗](https://www.figma.com/design/l9TdHemDxYo0ogEUkFbIY5/Untitled?node-id=0-1&t=0Ta5NzQbytx11wAL-1)
+[Открыть в Figma ↗](https://www.figma.com/design/o0aFrPotIJ7UthyFjFg3JD/Untitled?node-id=0-1&t=oL43EffNQ04WonEr-1)
 
